@@ -1,8 +1,8 @@
 # Bull Bot
-Bull Bot – a chatbot designed to comprehend natural language queries and respond with precise answers, accompanied by the most relevant website links. 
+Bull Bot – a chatbot designed to comprehend natural language queries and respond with precise answers, accompanied by the most relevant website links. Live at [BullBot.tech](https://www.bullbot.tech)
 
 ## Tech Stack
-- Vite.js / Node.js / Python
+- Vite.js / Node.js / Python / langchain / 
 - Database: Pinecone
 - Embedding Model: [BAAI/bge-small-en](https://huggingface.co/BAAI/bge-small-en)
 - Large Language Model: OpenAI API
