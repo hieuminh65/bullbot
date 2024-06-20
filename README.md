@@ -17,7 +17,7 @@ Bull Bot – a chatbot designed to comprehend natural language queries and respo
 ### Client - Vite App - Vercel
 [Client server](client) is a web app that allows users to ask questions and get answers from the server.
 
-### Server - Express App - Cyclic
+### Server - Express App - Azure Web App
 [Express server](server) get requests from the client and make calls to the Flask server to get answers to questions.
 
 ### Flask App - AWS EC2 
